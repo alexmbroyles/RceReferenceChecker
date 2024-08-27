@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLHsDc8V/4mGoUGWaqslRdHBoocMgHRKjQiyaIMCngwObpdQx4pTjms1XFp//UaYNFmU7I2NSlau2Qg9sWtzdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abroyle\\source\\repos\\rcereferencechecker\\rcereferencechecker\\rcereferencechecker.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abroyle\\.nuget\\packages\\fsharp.core\\8.0.101\\fsharp.core.8.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}
